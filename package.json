@@ -1,0 +1,28 @@
+{
+  "name": "projects-by-rich",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Projects by Rich",
+  "author": "Rich Wandell",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@mdx-js/mdx": "v1",
+    "@mdx-js/react": "v1",
+    "gatsby": "^4.7.1",
+    "gatsby-plugin-mdx": "^3.7.0",
+    "gatsby-plugin-sass": "^5.7.0",
+    "gatsby-source-filesystem": "^4.7.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "sass": "^1.49.7"
+  }
+}
