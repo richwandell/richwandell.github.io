@@ -16,6 +16,7 @@
     "postbuild": "rm -Rf docs && mv public docs"
   },
   "dependencies": {
+    "@blueprintjs/core": "^3.53.0",
     "@mdx-js/mdx": "v1",
     "@mdx-js/react": "v1",
     "gatsby": "^4.7.1",
@@ -24,6 +25,7 @@
     "gatsby-source-filesystem": "^4.7.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-flexbox-grid": "^2.1.2",
     "sass": "^1.49.7"
   }
 }
