@@ -23,6 +23,7 @@
     "gatsby-plugin-mdx": "^3.7.0",
     "gatsby-plugin-sass": "^5.7.0",
     "gatsby-source-filesystem": "^4.7.0",
+    "normalize.css": "^8.0.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-flexbox-grid": "^2.1.2",
